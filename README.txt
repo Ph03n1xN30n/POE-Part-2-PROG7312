@@ -25,6 +25,25 @@ displayed inside a timer will tick down for 30 seconds.
 -Once the timer runs down a message popup will appear to retry the game 
 the game will restart with the timer reset.
 
+====================================================================
+Game 2: 
+-------------------------------------------------------------------
+Instruction:
+-------------------------------------------------------------------
+1.) Button Play for Matching Game will be made availible click the play
+button.
+2.) Display will have the game made availible with interface
+-----------------------------------------------------------------------
+Game Instruction:
+------------------------------------------------------------------------
+1.) Start Button will be made availible the game will start on the click 
+2.) The game will display categories and descriptions 
+    4 Questions 7 Answers of Which 4 is correct
+3.) The Panel on the top right will keep track of Count of incorrect and
+correct selections the input will be checked with the button displaying 
+check.
+4.) The Button on click 
+========================================================================
 -------------------------------------------------------------------
                            End of File
 --------------------------------------------------------------------
